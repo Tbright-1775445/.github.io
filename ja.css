@@ -1,0 +1,74 @@
+#head{
+	color: black;
+}
+
+#account{
+	background:#F8F8F8;
+	height: 270px;
+	text-indent: 10px;
+	width: 550px;
+	border: solid 3px black;
+	float: left;
+	padding: 10px;
+}
+
+#pinfo{
+	background:#F8F8F8;
+	height: 270px;
+	float: right;
+    width: 550px;
+    border: 3px solid black;
+    padding: 10px;
+    position: relative;bottom: 300px;
+}
+
+#availability{
+	background:#F8F8F8;
+	text-indent: 10px;
+	width: 1140px;
+	border: solid 3px black;
+	position: relative;bottom: 300px;
+	padding: 10px;
+}
+
+#pstatement{
+	background:#F8F8F8;
+	width: 1140px;
+	border: solid 3px black;
+	text-indent: 10px;
+	position: relative;bottom: 300px;
+	padding: 10px;
+}
+
+#file{
+	align-content: center;
+	position: relative;bottom: 75px;
+	border: solid 3px black;
+	width: 300px;
+	background: #F8F8F8;
+	height: 70px;
+	padding: 10px;
+}
+
+#input{
+	position: relative;bottom: 340px; left: 500px;
+}
+
+#survey{
+	text-indent: 10px;
+	background:#F8F8F8;
+	width: 1140px;
+	border: solid 3px black;
+	position: relative;bottom: 365px;
+	padding: 10px;
+}
+
+ul{
+	list-style-type: none;
+	padding-left: 10px;
+}
+
+body{
+	background: #067159;
+
+}
